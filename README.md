@@ -1,7 +1,7 @@
 # 👋🏻 Moin!
 
 # 💫 About Me:
-👋 I'm Tan (they/them) 🌈  <br>👨‍💻 I'm working as a Open-Source firmware developer [@9elements](https://github.com/9elements) since 2026  <br>📚 Before that, I worked as a Site Reliability Engineer [@Hetzner Cloud](https://github.com/hetznercloud) till 2026 and did an apprenticeship there from 2019 till 2022  <br>🔧 Doing stuff with network 🌐, automation 🤖 , and embedded things 🛠️ (e.g. OpenBMC)
+👋 I'm Tan (they/them/she/her) 🌈  <br>👨‍💻 I'm working as a Open-Source firmware developer [@9elements](https://github.com/9elements) since 2026  <br>📚 Before that, I worked as a Site Reliability Engineer [@Hetzner Cloud](https://github.com/hetznercloud) till 2026 and did an apprenticeship there from 2019 till 2022  <br>🔧 Doing stuff with network 🌐, automation 🤖 , and embedded things 🛠️ (e.g. OpenBMC)
 
 
 ## 🌐 Socials:
